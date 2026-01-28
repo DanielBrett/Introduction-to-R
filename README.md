@@ -1,4 +1,4 @@
-![Tool Logo](Intro-R.jpg)
+![Tool Logo](IntroR.png)
 
 
 # Introduction to R
@@ -107,21 +107,8 @@ E. When you are done type "WOOHOO!!!!!!!" into the chat.  Feel free to share the
 ---
   
 ## Next Steps
-If you are looking to continue enhancing your knowledge of R, check out our other R workshops or try out one of the options below!
+If you are looking to continue enhancing your knowledge of R, check out the options below!
 
 [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)   
   
 [W3Schools R Tutorial](https://www.w3schools.com/r/default.asp)
-  
-   
-   
- 
-
-  
-**This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
-
-
-
-
-
-
