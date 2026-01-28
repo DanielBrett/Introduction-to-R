@@ -64,45 +64,39 @@ Activates the designated installed package so that its functions may be used
 ---
   
 ## Workshop Tasks
-These are all of the tasks that will be assigned in the "DO" portions of the workshop.
+These are all of the tasks associated with the workshop.
 
 **Task Set #1**  
 A. Save your source file to your working directory using the save button  
 B. Run a math problem in the console by typing it and pressing enter  
 C. Run the same problem in the Source file using the run button or the keyboard shortcut  
-D. When you are done type "DONE!" into the chat  
   
 **Task Set #2**  
 A. Load the AirPassengers data into your environment  
 B. Look at it by typing the name of the dataset  
-C. When that is done type "LOADED!" into the chat  
   
 **Task Set #3**  
 A. Create 2 variables.  One containing the number of passengers for January 1950 and the other containing the passengers for January 1960  
 B. Use the variables you just created to find out how many more people flew in 1960 than in 1950.  (Remember that when a variable is used in a formula, it is replaced with whatever is inside of it before calculations are done)  
 C. Remove both of the variables that you just created from the environment  
 D. Use the help function to learn about one of the other functions we have used so far  
-E. Once you are done put a message in the chat saying "GOT IT!"  
   
 **Task Set #4**  
 A. Create variables for the 1949 and 1950 AirPassengers data.  
 B. Calculate the total number of passengers that flew in 1949 and 1950  
 C. Make a new variable called AirTotal that contains the total number of passengers that flew in 1949 and 1950  
-D. Once you are done, type "SOLVED!" in the chat  
   
 **Task Set #5**  
 A. Load the mtcars data into your environment.  
 B. Find which vehicle has the fastest ¼ Mile Time.  
 C. Make a variable called “fastest” that contains just the row with the fastest cars data  
-D. Write a .csv file that contains the information for the fastest car and name it "FastestCar.csv"  
-E. When you are done type "COMPLETED!" in the chat.  
+D. Write a .csv file that contains the information for the fastest car and name it "FastestCar.csv"   
   
 **Task Set #6**  
 A. Go to https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-A and find a package that sounds interesting  
 B. Use install.packages() to add it to your environment  
 C. Turn on the package using library()  
-D. Read its help documentation using help()  
-E. When you are done type "WOOHOO!!!!!!!" into the chat.  Feel free to share the name of the package you found as well if you think others might find it interesting.  
+D. Read its help documentation using help()   
   
 ---
   
